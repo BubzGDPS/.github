@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Bubzilla here. This is an organization to host my GDPS I'm working on!
+It's not ready yet, but will be soon!
+
 <!--
 
 **Here are some ideas to get you started:**
